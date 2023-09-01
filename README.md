@@ -1,12 +1,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Snehal Niphade</h1>
-<h3 align="center"> Full Stack Web Developer from India</h3>
+<h3 align="center">Full Stack Web Developer from India</h3>
 
 
 - 🌱 I’m currently learning **Full Stack Web Development Internship Program**
 
-- 💬 Ask me about **I'm post-graduate of Computer Science Engineering. The crossover between design and programming has always been interest to me.Good Knowledge in JavaScript, HTML, CSS, Bootstrap, Wordpress, ReactJs, NodeJS,MongoDB**
+- 💬 Ask me about **HTML CSS Javascript**
 
 - 📫 How to reach me **niphadesnehal@gmail.com**
 
